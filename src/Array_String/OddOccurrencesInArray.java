@@ -1,3 +1,5 @@
+package Array_String;
+
 public class OddOccurrencesInArray {
     public int solution(int[] A) {
         int result = 0;

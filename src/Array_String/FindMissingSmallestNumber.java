@@ -1,3 +1,5 @@
+package Array_String;
+
 import java.util.HashSet;
 
 public class FindMissingSmallestNumber {

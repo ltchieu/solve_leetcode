@@ -1,3 +1,5 @@
+package Array_String;
+
 public class TheIndexOfTheFirstOccurrenceInString {
     public int strStr(String haystack, String needle) {
         int m = haystack.length();

@@ -1,3 +1,5 @@
+package HashMap;
+
 public class RansomNote {
     public boolean canConstruct(String ransomNote, String magazine) {
         if(ransomNote.isEmpty()) return true;
